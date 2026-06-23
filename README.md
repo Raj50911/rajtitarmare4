@@ -3,7 +3,7 @@
 I am an entry-level tech enthusiast pursuing opportunities in Data Analysis and Software Development.
 
 ## 🛠️ Skills & Technologies
-- *Languages:* Python, JavaScript, SQL
+- *Languages:* Python, JavaScript, SQL , Power BI, python
 - *Tools & Platforms:* Git, GitHub, Linux, VS Code
 - *Core Concepts:* Data Structures, Object-Oriented Programming (OOP)
 
